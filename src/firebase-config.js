@@ -1,14 +1,14 @@
-import { initializeApp } from "firebase/app";
-import { getAuth } from "firebase/auth";
+import {initializeApp} from "firebase/app";
+import {getAuth} from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAXFme_oTPlrFmWIm707ac6Z2qawoTvf2k",
-  authDomain: "authentication-tutorial-ec556.firebaseapp.com",
-  projectId: "authentication-tutorial-ec556",
-  storageBucket: "authentication-tutorial-ec556.appspot.com",
-  messagingSenderId: "945663559539",
-  appId: "1:945663559539:web:51b9786fd75d399bf86706",
-  measurementId: "G-22FP5PHT1F",
+  apiKey: "AIzaSyDUvRsU3PKJ-co9LBp1KatgK2KB2yP0JiE",
+  authDomain: "school-16dcd.firebaseapp.com",
+  projectId: "school-16dcd",
+  storageBucket: "school-16dcd.appspot.com",
+  messagingSenderId: "109206814306",
+  appId: "1:109206814306:web:2a27a17c7c39bdb25a5b3b",
+  measurementId: "G-SME5MMNQ7P",
 };
 
 const app = initializeApp(firebaseConfig);
